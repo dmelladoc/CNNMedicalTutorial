@@ -38,7 +38,7 @@ O pueden instalarlos uno por uno, utilizaremos:
 - [medMNIST](https://medmnist.com/)
 
 ### Notebooks
-- [Evaluar Imagen]()
+- [Evaluar Imagen](Notebooks/ClasificadorCNN.ipynb)
 
 #### Planeados
 - [Entrenamiento con MedMNIST]()
