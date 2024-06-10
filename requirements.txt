@@ -6,3 +6,6 @@ pandas
 torch
 torchvision
 torchaudio
+torchmetrics
+medmnist
+tqdm
