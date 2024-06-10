@@ -7,7 +7,7 @@ Este repositorio es un ejemplo para probar clasificadores basados en redes convo
 ### Clonar el repositorio
 En la parte superior izquierda, aparece como clonar este repositorio, tambien pueden hacerlo desde una terminal (teniendo `git` instalado):
 ```bash
-git clone 
+git clone https://github.com/dmelladoc/CNNMedicalTutorial.git
 ```
 
 ### Crear un ambiente
