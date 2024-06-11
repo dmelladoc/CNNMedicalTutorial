@@ -30,17 +30,19 @@ para instalar solo debe ejecutarse
 pip install -r requirements.txt
 ```
 
-O pueden instalarlos uno por uno, utilizaremos:
+O pueden instalarlos uno por uno (no recomendado), utilizaremos de forma general:
 
 - NumPy
 - [pytorch](https://www.pytorch.org)
+- torchmetrics
 - matplotlib
 - [medMNIST](https://medmnist.com/)
 
 ### Notebooks
 - [Evaluar Imagen](Notebooks/ClasificadorCNN.ipynb)
 - [Entrenamiento con MedMNIST](Notebooks/Entrenamiento.ipynb)
+- [Explicabilidad](Notebooks/Explicabilidad.ipynb)
 
 #### Planeados
 
-- [Explicabilidad]()
+
