@@ -1,6 +1,7 @@
-# Uso de Redes Neuronales Convolucinales para Clasficacion de imagenes médicas
+# Uso de Redes Neuronales Convolucionales para Clasficación de imagenes médicas
 
 Este repositorio es un ejemplo para probar clasificadores basados en redes convolucionales para clasificar una base de datos de imagenes médicas.
+Diseñado para la asignatura de _Ciencia de Datos en Salud_, Universidad de Valparaíso.
 
 ## Instalacion
 
@@ -9,6 +10,8 @@ En la parte superior izquierda, aparece como clonar este repositorio, tambien pu
 ```bash
 git clone https://github.com/dmelladoc/CNNMedicalTutorial.git
 ```
+Otra opción es descargar el repositorio completo como ZIP.
+
 
 ### Crear un ambiente
 Para evitar que las librerias a utilizar tengan conflictos con archivos de sistema, vamos a crear un ambiente de trabajo.
@@ -38,11 +41,10 @@ O pueden instalarlos uno por uno (no recomendado), utilizaremos de forma general
 - matplotlib
 - [medMNIST](https://medmnist.com/)
 
-### Notebooks
+## Notebooks
 - [Evaluar Imagen](Notebooks/ClasificadorCNN.ipynb)
 - [Entrenamiento con MedMNIST](Notebooks/Entrenamiento.ipynb)
 - [Explicabilidad](Notebooks/Explicabilidad.ipynb)
 
-#### Planeados
 
 
